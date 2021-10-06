@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Develop my skills
 - 🌱 I’m currently learning JavaScript
-- ⚡ Fun fact: I'm an otaku
+- ⚡ Fun fact: I'm an Otaku
 
 
 <div>

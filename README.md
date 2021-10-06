@@ -2,8 +2,8 @@
 
 "Coding shined a light in my darkest days." ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Develop my skills
+- 🌱 I’m currently learning 
 - ⚡ Fun fact: ...
 
 

@@ -3,7 +3,7 @@
 "Coding shined a light in my darkest days." ⭐
 
 - 🔭 I’m currently working on Develop my skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Figma
 - ⚡ Fun fact: I'm an Otaku
 
 

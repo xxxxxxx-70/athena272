@@ -11,7 +11,6 @@
   <a href="https://github.com/athena272">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athena272&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena272&layout=compact&langs_count=8&theme=radical"/>
-    
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,10 +22,9 @@
   <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Gui-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   <img align="right" alt="Gui-Athena" height="180em" src="https://cdn.discordapp.com/attachments/891324321505640479/947850714414215258/nakanoart-nakanodrawing.gif">
-  
-##
+
 </div
-  
+## 
   
   
 <div>

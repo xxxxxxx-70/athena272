@@ -9,12 +9,12 @@
 - 🌱 I’m currently learning Flutter(Mobile Development)
 - ⚡ Fun fact: I'm an Otaku
 
- <img align="right" alt="Gui-Athena" height="150" style="border-radius:50px;" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
+ <img align="right" alt="Gui-Athena" height="115em" style="border-radius:50px;" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 
 <div>
   <a href="https://github.com/athena272">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=athena272&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena272&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athena272&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athena272&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>

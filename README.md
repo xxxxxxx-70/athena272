@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Develop my skills
-- 🌱 I’m currently learning Flutter(Mobile Development) and ReactJS
+- 🌱 I’m currently learning Flutter(Mobile Development) and ReactJS(Web Development)
 - ⚡ Fun fact: I'm an Otaku
 
  <img align="center" alt="Gui-Athena" width="230em" height="230em" style="border-radius:50px;" src="https://2.bp.blogspot.com/-R_zuy2Dh2vM/V96TbzgcEbI/AAAAAAAAOn4/RBykfQlnSDw7lXme-6FGJg7mzQGQetv1gCLcB/s1600/New%2BGame%2521%2B%25285%2529.gif" />

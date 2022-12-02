@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning Flutter(Mobile Development) and ReactJS(Web Development)
 - ⚡ Fun fact: I'm an Otaku
 
- <img align="center" alt="Gui-Athena" width="300em" height="300em" style="border-radius:50px;" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+<div>
+ <img align="center" alt="Gui-Athena" width="250em" height="300em" style="border-radius:50px;" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />
+ </div>
 
 <div>
   <a href="https://github.com/athena272">

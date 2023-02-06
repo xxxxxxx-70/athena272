@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Develop my skills
 - 🌱 I’m currently learning Flutter(Mobile Development) and ReactJS(Web Development)
 - ⚡ Fun fact: I'm an Otaku
-- 🌐 Web site: https://athena272portfolio.vercel.app/ 
+- 🌐 Website: https://athena272portfolio.vercel.app/ 
 
 <div>
  <img align="center" alt="Gui-Athena" width="250em" height="300em" style="border-radius:50px;" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" />

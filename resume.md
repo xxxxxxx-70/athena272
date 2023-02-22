@@ -3,7 +3,9 @@ I'm in the 4th semester of the Faculty of Computer Science, I study at UFS (Fede
 I did technical high school in Computer Networks at IFS (Federal Institute of Sergipe) also in Brazil. Please write a resume to me
 
 Nome: [Seu Nome]
+
 Informações de Contato: [Seu E-mail e Número de Telefone]
+
 Localização: Sergipe, Brasil
 
 Resumo:
